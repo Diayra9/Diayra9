@@ -37,22 +37,22 @@
 <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
 <br/><br/>
 
-## 📊 GitHub Stats
+## 📊 Stats
 <p align="left"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diayra9&show_icons=true&theme=gruvbox_light" alt="Dian GitHub stats"/></p>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Diayra9&theme=gruvbox_light" alt="GitHub Streak"/></p>
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Diayra9&theme=gruvbox-light&no-frame=true&margin-w=15" alt="GitHub Trophies"/></p>
 
-## 💌 Contact Me
-🌸 Feel free to reach out, let's chat and create something amazing!  
+## 🌸 Contact Me
+Feel free to reach out, let's chat and create something amazing!  
 Here’s where you can find me:
 
 💌 **Email** → [diana.yu0r@gmail.com](mailto:diana.yu0r@gmail.com)  
 📸 **Instagram** → [@diana_yu9](https://www.instagram.com/diana_yu9/)  
 💼 **LinkedIn** → [Dian Ayu](https://www.linkedin.com/in/diayu-digital/)
 
-## 🐍 Contribution Snake
+## 🐍 Contribution
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
